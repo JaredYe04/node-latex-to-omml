@@ -1,0 +1,44 @@
+{
+  "name": "latex-to-omml",
+  "version": "1.0.0",
+  "description": "A Node.js library for converting LaTeX mathematical formulas to Microsoft Word OMML format / 将 LaTeX 数学公式转换为 Microsoft Word OMML 格式的 Node.js 库",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "latex",
+    "omml",
+    "mathml",
+    "math",
+    "word",
+    "office",
+    "converter",
+    "microsoft",
+    "equation",
+    "formula"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JaredYe04/latex-to-omml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JaredYe04/latex-to-omml/issues"
+  },
+  "homepage": "https://github.com/JaredYe04/latex-to-omml#readme",
+  "files": [
+    "index.js",
+    "lib/",
+    "README.md"
+  ],
+  "dependencies": {
+    "mathjax-node": "^2.1.1",
+    "mathml2omml": "^0.5.0"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
+

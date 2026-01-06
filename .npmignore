@@ -1,0 +1,42 @@
+# Git
+.git
+.gitignore
+.github
+
+# Documentation
+LATEX_TO_OMML_CONVERSION_GUIDE.md
+*.md
+!README.md
+
+# Tests
+test.js
+test/
+*.test.js
+*.spec.js
+
+# Development
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies (if any)
+node_modules
+
+# Build artifacts
+dist
+build
+coverage
+
