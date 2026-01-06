@@ -7,6 +7,7 @@
 LATEX_TO_OMML_CONVERSION_GUIDE.md
 *.md
 !README.md
+!README.zh-CN.md
 
 # Tests
 test.js

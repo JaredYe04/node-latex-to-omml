@@ -31,7 +31,8 @@
   "files": [
     "index.js",
     "lib/",
-    "README.md"
+    "README.md",
+    "README.zh-CN.md"
   ],
   "dependencies": {
     "mathjax-node": "^2.1.1",
