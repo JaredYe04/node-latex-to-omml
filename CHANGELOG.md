@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.1] - 2025-01-06
+
+### Fixed
+- Fixed CI workflow to handle package-lock.json properly / 修复 CI 工作流以正确处理 package-lock.json
+- Fixed GitHub Actions permissions for publishing / 修复 GitHub Actions 发布权限
+
+## [2.0.0] - 2025-01-06
+
+### Changed
+- Initial npm publication / 首次 npm 发布
+
 ## [1.0.0] - 2024-XX-XX
 
 ### Added
@@ -21,5 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Singleton pattern for MathJax initialization
 - Promise-based async API
 
-[1.0.0]: https://github.com/YOUR_USERNAME/latex-to-omml/releases/tag/v1.0.0
+[2.0.1]: https://github.com/JaredYe04/latex-to-omml/releases/tag/v2.0.1
+[2.0.0]: https://github.com/JaredYe04/latex-to-omml/releases/tag/v2.0.0
+[1.0.0]: https://github.com/JaredYe04/latex-to-omml/releases/tag/v1.0.0
 

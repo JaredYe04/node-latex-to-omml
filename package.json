@@ -1,6 +1,6 @@
 {
   "name": "latex-to-omml",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "A Node.js library for converting LaTeX mathematical formulas to Microsoft Word OMML format / 将 LaTeX 数学公式转换为 Microsoft Word OMML 格式的 Node.js 库",
   "main": "index.js",
   "scripts": {
