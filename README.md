@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**A Node.js library for converting LaTeX mathematical formulas to Microsoft Word OMML format**
+**A Node.js library to convert LaTeX math expressions into OMML (Office Math Markup Language), allowing seamless insertion into Microsoft Word / DOCX equations.**
 
 [![Version](https://img.shields.io/badge/version-2.0.2-blue.svg)](https://www.npmjs.com/package/latex-to-omml)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -23,6 +23,12 @@
 </details>
 
 </div>
+
+---
+
+## Keywords
+
+LaTeX, OMML, Word Equation, Math Equation, docx, Office Math, MathML, nodejs
 
 ---
 
@@ -279,6 +285,14 @@ This project is licensed under the MIT License.
 ---
 
 <a id="chinese-content"></a>
+
+A Node.js library to convert LaTeX math expressions into OMML (Office Math Markup Language), allowing seamless insertion into Microsoft Word / DOCX equations.
+
+## Keywords
+
+LaTeX, OMML, Word Equation, Math Equation, docx, Office Math, MathML, nodejs
+
+---
 
 ## 📑 目录
 

@@ -12,11 +12,14 @@
     "mathml",
     "math",
     "word",
+    "docx",
     "office",
     "converter",
     "microsoft",
+    "math",
     "equation",
-    "formula"
+    "formula",
+    "latex-to-omml"
   ],
   "author": "",
   "license": "MIT",
