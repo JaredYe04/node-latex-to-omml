@@ -3,7 +3,7 @@
 <div align="center">
 
 **A Node.js library to convert LaTeX math expressions into OMML (Office Math Markup Language), allowing seamless insertion into Microsoft Word / DOCX equations.**
-
+[![npm version](https://img.shields.io/npm/v/latex-to-omml.svg)](https://www.npmjs.com/package/latex-to-omml)
 [![Version](https://img.shields.io/badge/version-2.0.2-blue.svg)](https://www.npmjs.com/package/latex-to-omml)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Node.js-brightgreen.svg)](https://nodejs.org/)
